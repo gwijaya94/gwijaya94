@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Gilbert Wijaya
 - 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Flutter.
+- 💻 using React Native as main framework
+- 🌱 Currently learning Flutter.
 - 📫 How to reach me :
-  - 📩 gilbertwijaya94@gmail.com
+  - Email: gilbertwijaya94@gmail.com
+  - Telegram: [gwijaya94](t.me/gwijaya94)
 
 
 <!-- - 💞️ I’m looking to collaborate on ... -->
